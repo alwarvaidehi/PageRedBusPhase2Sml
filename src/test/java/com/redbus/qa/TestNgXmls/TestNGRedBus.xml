@@ -1,0 +1,9 @@
+<suite name="test1" verbose="1">
+<test name="POMFramework">
+<classes>
+<class name="com.redbus.qa.TestPages.HomePageTest">
+</class>
+</classes>
+</test>
+
+</suite>
